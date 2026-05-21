@@ -1,0 +1,47 @@
+# ==========================================
+# root .gitignore for RecipeApp Monorepo
+# ==========================================
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore IDE private settings
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Exclude private configurations in subprojects
+frontend/node_modules/
+frontend/.expo/
+frontend/dist/
+frontend/web-build/
+frontend/expo-env.d.ts
+frontend/.env
+frontend/.env.local
+frontend/.env.development
+frontend/.env.production
+frontend/.env.staging
+frontend/.env*.local
+
+backend/build/
+backend/dist/
+backend/target/
+backend/out/
+backend/nbproject/private/
+backend/nbproject/Makefile-genesis.properties
+backend/build.xml.properties
+backend/web/profile_image/*
+!backend/web/profile_image/.gitkeep
+backend/web/recipe_image/*
+!backend/web/recipe_image/.gitkeep
+backend/*.log
+backend/hibernate.properties

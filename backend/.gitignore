@@ -1,0 +1,55 @@
+# ==========================================
+# gitignore - RecipeApp Java Backend
+# ==========================================
+
+# Java compilation files
+*.class
+*.bluej
+*.cmt
+*.jar
+*.war
+*.ear
+*.rar
+*.zip
+*.tar.gz
+
+# Build outputs and deployment directories
+/build/
+/dist/
+/target/
+/out/
+
+# NetBeans specific files (excluding project configuration metadata)
+nbproject/private/
+nbproject/Makefile-genesis.properties
+build.xml.properties
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse files
+.metadata/
+.classpath
+.project
+.settings/
+*.tmp
+*.bak
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User-specific local media directories (DO NOT upload user profile & recipe images to git)
+web/profile_image/*
+!web/profile_image/.gitkeep
+web/recipe_image/*
+!web/recipe_image/.gitkeep
+
+# Log files and local environment configs
+*.log
+hibernate.properties
+local.properties
