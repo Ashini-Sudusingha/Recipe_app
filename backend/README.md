@@ -183,3 +183,12 @@ Open `d:\ApowerRECData\RecipeApp\src\java\hibernate\hibernate.cfg.xml` and updat
 3. Right-click on the project root in the explorer panel.
 4. Select **Resolve Problems** if any library archives (JARs) under the `lib` folder show exclamation marks.
 5. Right-click the project name and select **Run**. NetBeans will compile, package it into a `.war` file, and deploy it onto your default configured server (e.g., Apache Tomcat on port `8080`).
+
+---
+
+## 👩‍💻 Developer
+
+*   **Ashini Sudusingha** — *Lead Full-Stack Software Engineer*
+    *   **GitHub / Portfolio:** [@Ashini-Sudusingha](https://github.com/Ashini-Sudusingha)
+    *   **Contributions:** Designed and engineered the Java Servlet API layer, Hibernate 3+ database persistence mappings, and MySQL relational database configuration.
+

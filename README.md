@@ -109,6 +109,13 @@ To run this full-stack application on your local machine, ensure you have instal
    ```
 4. Scan the QR code with your mobile camera to run the app instantly via **Expo Go**!
 
+*For detailed instructions on configuring components, endpoints, database schemas, and folder structures, please refer directly to the respective README files inside [**`/frontend`**](./frontend/README.md) and [**`/backend`**](./backend/README.md).*
+
 ---
 
-*For detailed instructions on configuring components, endpoints, database schemas, and folder structures, please refer directly to the respective README files inside [**`/frontend`**](./frontend/README.md) and [**`/backend`**](./backend/README.md).*
+## 👩‍💻 Developer
+
+*   **Ashini Sudusingha** — *Lead Full-Stack Software Engineer*
+    *   **GitHub / Portfolio:** [@Ashini-Sudusingha](https://github.com/Ashini-Sudusingha)
+    *   **Contributions:** Overall System Architecture design, cross-platform Mobile Client development (React Native & Expo), and Java Enterprise Backend API implementation (Servlets, Hibernate ORM, and MySQL database).
+

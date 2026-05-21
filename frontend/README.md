@@ -174,3 +174,12 @@ Inside the terminal, select your target compilation environment:
 *   Press **`a`** to build and run on an **Android Emulator** or physical USB device.
 *   Press **`i`** to compile and run on an **iOS Simulator**.
 *   Press **`w`** to render a preview draft in the **Web Browser**.
+
+---
+
+## 👩‍💻 Developer
+
+*   **Ashini Sudusingha** — *Lead Full-Stack Software Engineer*
+    *   **GitHub / Portfolio:** [@Ashini-Sudusingha](https://github.com/Ashini-Sudusingha)
+    *   **Contributions:** Designed and engineered the entire cross-platform mobile client application using React Native, Expo, and NativeWind Tailwind styling.
+
